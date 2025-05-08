@@ -78,4 +78,4 @@ In my version, the dataset is a `.csv` file uploaded and loaded via Google Colab
 ---
 Output:
 
-
+![Image](https://github.com/user-attachments/assets/78af157d-c145-4b51-afb0-4785bb8332bf)
