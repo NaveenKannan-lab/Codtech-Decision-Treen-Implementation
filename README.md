@@ -6,7 +6,7 @@ Hello!  This repository contains my implementation of **Task 1** from the Machin
 
 This is the first of four tasks in the internship and focuses on classification using supervised learning.
 
-🎯 Objective
+ Objective
 
 To build a machine learning model that:
 - Classifies different species of Iris flowers
@@ -15,7 +15,7 @@ To build a machine learning model that:
 - Evaluates its performance on unseen data
 - Visualizes the decision tree structure for easy interpretability
 
-🗂️ Dataset Description
+ Dataset Description
 
 The dataset used is the **Iris dataset**, which is a classic in machine learning and pattern recognition.
 
